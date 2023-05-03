@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../CloudDisk/.idea/CloudDisk.iml" filepath="$PROJECT_DIR$/../CloudDisk/.idea/CloudDisk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AliCloudDisk.iml" filepath="$PROJECT_DIR$/.idea/AliCloudDisk.iml" />
     </modules>
   </component>
 </project>
