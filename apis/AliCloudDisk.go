@@ -1,12 +1,12 @@
 package AliCloudDisk
 
 import (
-	"AliCloudDisk/entity"
-	"AliCloudDisk/util"
 	"bytes"
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/XiaoTuanZiJiang/AliCloudDisk/entity"
+	"github.com/XiaoTuanZiJiang/AliCloudDisk/util"
 	"io"
 	"net/http"
 	"strings"
